@@ -1,0 +1,28 @@
+Aquaponics refers to any system that combines conventional aquaculture (raising aquatic animals such as snails, fish, crayfish or prawns in tanks) with hydroponics (cultivating plants in water) in a symbiotic environment. 
+In normal aquaculture, excretions from the animals being raised can accumulate in the water, increasing toxicity. 
+In an aquaponic system, water from an aquaculture system is fed to a hydroponic system where the by-products are broken down by nitrifying bacteria initially into nitrites and subsequently into nitrates, which are utilized by the plants as nutrients, and the water is then recirculated back to the aquaculture system.
+
+
+
+
+Parts of an aquaponic system
+
+A commercial aquaponics system. 
+An electric pump moves nutrient-rich water from the fish tank through a solids filter to remove particles the plants above cannot absorb. 
+The water then provides nutrients for the plants and is cleansed before returning to the fish tank below.
+
+Aquaponics consists of two main parts, with the aquaculture part for raising aquatic animals and the hydroponics part for growing plants.
+Aquatic effluents, resulting from uneaten feed or raising animals like fish, accumulate in water due to the closed-system recirculation of most aquaculture systems. 
+The effluent-rich water becomes toxic to the aquatic animal in high concentrations but this contains nutrients essential for plant growth.
+Although consisting primarily of these two parts, aquaponics systems are usually grouped into several components or subsystems responsible for the effective removal of solid wastes, for adding bases to neutralize acids, or for maintaining water oxygenation.
+Typical components include:
+
+    Rearing tank: the tanks for raising and feeding the fish;
+    Settling basin: a unit for catching uneaten food and detached biofilms, and for settling out fine particulates;
+    Biofilter: a place where the nitrification bacteria can grow and convert ammonia into nitrates, which are usable by the plants;[14]
+    Hydroponics subsystem: the portion of the system where plants are grown by absorbing excess nutrients from the water;
+    Sump: the lowest point in the system where the water flows to and from which it is pumped back to the rearing tanks.
+
+
+Depending on the sophistication and cost of the aquaponics system, the units for solids removal, biofiltration, and/or the hydroponics subsystem may be combined into one unit or subsystem, which prevents the water from flowing directly from the aquaculture part of the system to the hydroponics part.
+

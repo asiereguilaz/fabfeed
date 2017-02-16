@@ -1,0 +1,10 @@
+The Food Computer is a controlled-environment agriculture technology platform that uses robotic systems to control and monitor climate, energy, and plant growth inside of a specialized growing chamber. 
+Climate variables such as carbon dioxide, air temperature, humidity, dissolved oxygen, potential hydrogen, electrical conductivity, and root-zone temperature are among the many conditions that can be controlled and monitored within the growing chamber. 
+Operational energy, water, and mineral consumption are monitored (and adjusted) through electrical meters, flow sensors, and controllable chemical dosers throughout the growth period.
+
+
+Each specific set of conditions can be thought of as a climate recipe, and each recipe produces unique results in the phenotypes of the plants. 
+Plants grown under different conditions may vary in color, size, texture growth rate, yield, flavor, and nutrient density. 
+Food Computers can even program biotic and abiotic stresses, such as an induced drought, to create desired plant-based expressions.
+
+Food Computers can be made in a variety of sizes, for production and experimentation on a wide range of scales.

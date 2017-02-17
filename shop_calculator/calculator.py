@@ -3,12 +3,12 @@
 
 # In[8]:
 
-geoponics = [310.34, 1,2,3,4,5]
-hydroponics = [0,1,2,3,4,5]
-aquaponics = [642.5,228.5,291.5,310.5]
-aeroponics = [291.5,310.5,512.5,552.0]
-spirulina = [0,1,2,3,4,5]
-foodcomputer = [0,1,2,3,4,5]
+geoponics = [0, 86.4,0, 43.2]
+hydroponics = [448,224,375,112]
+aquaponics = [732,444,350,200]
+aeroponics = [576,288,375,200]
+spirulina = [864,0,432,0]
+foodcomputer = [640,0,450,0]
 
 
 print "You are about to start developing your own FabFeedLab."
